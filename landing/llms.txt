@@ -1,0 +1,21 @@
+# Creator-to-Cash Funnel OS
+
+Creator-to-Cash Funnel OS is an agent-native API product from DataWeave INC.
+
+Primary function:
+- Agent-native funnel routing for creator offers: intent capture, pricing path split, checkout handoff, and activation analytics.
+
+Discovery keywords:
+- creator funnel api
+- agent checkout for creators
+- content to revenue automation
+
+Checkout paths:
+- Starter ({{STARTER_PRICE_LABEL}}): {{CHECKOUT_LINK_STARTER}}
+- DFY ({{DFY_PRICE_LABEL}}): {{CHECKOUT_LINK_DFY}}
+
+Post-payment outcome:
+- Webhook-driven activation, API key provisioning, and onboarding handoff.
+
+Fast lane URL:
+- https://get-agent-router.com/bundle?utm_source=creatortocashfunnelos&utm_medium=llms&utm_campaign=smb72_rollout
